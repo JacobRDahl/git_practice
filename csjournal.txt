@@ -1,1 +1,3 @@
 Im enjoying my CS2450 class
+
+date: 1/21/2025 - A new entry. We worked hard to get git setup to be able to use SSH keys.
