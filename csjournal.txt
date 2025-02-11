@@ -1,3 +1,10 @@
 Im enjoying my CS2450 class
 Inserted something.
 date: 1/21/2025 - A new entry. We worked hard to get git setup to be able to use SSH keys.
+
+date: 1/28/2025 - I dont have that much of what is going on and how I will be useful to my team but Im hope and now I will give the group the best work I can do so heres to hoping.
+
+date: 2/04/2025 - Im looking forward to working on are app I think this is going to help alot with my understanding on the implimation of code and what a stack will look like when finished. 
+
+date: 2/11/2025 - I was realy struggling with using the command line/bash shell but since I have made my self more familur with the different commands it has gotten easier but there are still thing I struggle with.
+	Working with a group has had its challenges like the communication between each other is the lowest possible it seems like but I have hope we as a group will get there.
