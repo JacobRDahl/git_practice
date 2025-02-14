@@ -8,3 +8,5 @@ date: 2/04/2025 - Im looking forward to working on are app I think this is going
 
 date: 2/11/2025 - I was realy struggling with using the command line/bash shell but since I have made my self more familur with the different commands it has gotten easier but there are still thing I struggle with.
 	Working with a group has had its challenges like the communication between each other is the lowest possible it seems like but I have hope we as a group will get there.
+
+date: 2/13/2025 - I didnt realize that some of the processes that I use at work are very simulor to the user stories and the requirment gathing. I work with signal booster for cell phones and so it is every import to take in and understande the expectation users will have or do have. So the way do that is by putting them through worse case possiblities. 
