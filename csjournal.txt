@@ -11,4 +11,6 @@ date: 2/11/2025 - I was realy struggling with using the command line/bash shell 
 
 date: 2/13/2025 - I didnt realize that some of the processes that I use at work are very simulor to the user stories and the requirment gathing. I work with signal booster for cell phones and so it is every import to take in and understande the expectation users will have or do have. So the way do that is by putting them through worse case possiblities. 
 
-date: 2/20/2025 - I fell I learned alot about myself and learned that I suggle with working in a group and how componet digrams look like and how they help. 
+date: 2/20/2025 - I fell I learned alot about myself and learned that I suggle with working in a group and how componet digrams look like and how they help.
+
+dat: 2/25/2025 - Ive been struggleing with understanding and learing JS but Im not going to stop trying and I hope that are team can move passed solo working and find are grove as a team. 
