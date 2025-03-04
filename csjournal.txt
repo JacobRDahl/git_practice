@@ -13,4 +13,6 @@ date: 2/13/2025 - I didnt realize that some of the processes that I use at work 
 
 date: 2/20/2025 - I fell I learned alot about myself and learned that I suggle with working in a group and how componet digrams look like and how they help.
 
-dat: 2/25/2025 - Ive been struggleing with understanding and learing JS but Im not going to stop trying and I hope that are team can move passed solo working and find are grove as a team. 
+date: 2/25/2025 - Ive been struggleing with understanding and learing JS but Im not going to stop trying and I hope that are team can move passed solo working and find are grove as a teamo.
+
+date: 3/04/2025 - We had a lesson on ethics today and It really got me thinking about where would I draw my line at and this is something that I will have to keep think about in my career and always ask my self will I be able to live with my choice. On another note I've been trying to understand flask and I think I starting to get it just need to figure out 
