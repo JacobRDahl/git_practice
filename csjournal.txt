@@ -15,4 +15,8 @@ date: 2/20/2025 - I fell I learned alot about myself and learned that I suggle w
 
 date: 2/25/2025 - Ive been struggleing with understanding and learing JS but Im not going to stop trying and I hope that are team can move passed solo working and find are grove as a teamo.
 
-date: 3/04/2025 - We had a lesson on ethics today and It really got me thinking about where would I draw my line at and this is something that I will have to keep think about in my career and always ask my self will I be able to live with my choice. On another note I've been trying to understand flask and I think I starting to get it just need to figure out 
+date: 3/04/2025 - We had a lesson on ethics today and It really got me thinking about where would I draw my line at and this is something that I will have to keep think about in my career and always ask my self will I be able to live with my choice. On another note I've been trying to understand flask and I think I starting to get it just need to figure out
+
+date 3/12/2025 - classes hve been going well and I realy think Im starting to get the hang of flask or atless the css and bootstrap.
+
+date 3/25/2025 - app is really starting to come along and are group communication has gotten alot better and is cuase things to run much smoother. I enjoyed the unit testing assignment but figuring out the chrome driver felt almost impossible.
