@@ -20,3 +20,5 @@ date: 3/04/2025 - We had a lesson on ethics today and It really got me thinking 
 date 3/12/2025 - classes hve been going well and I realy think Im starting to get the hang of flask or atless the css and bootstrap.
 
 date 3/25/2025 - app is really starting to come along and are group communication has gotten alot better and is cuase things to run much smoother. I enjoyed the unit testing assignment but figuring out the chrome driver felt almost impossible.
+
+date 4/01/2025 - today has been a day of just fixing one issue after another at work, at home and at school hoping for a better day tomorrow but I'm looking forward to my last class of the day.
